@@ -1,4 +1,4 @@
-# Aidan Abbott's First CS293 Homework
+# Aidan Abbott's First CS193 Homework
 - I like that we discussed the technical and behavioral side of interviews
 - I like the music at the beginning of class
 
