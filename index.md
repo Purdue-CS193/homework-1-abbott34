@@ -1,3 +1,7 @@
+# Aidan Abbott's First CS293 Homework
+- I like that we discussed the technical and behavioral side of interviews
+- I like the music at the beginning of class
+
 ## Welcome to Aidan's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
